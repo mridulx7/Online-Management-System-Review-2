@@ -13,3 +13,4 @@ public class Admin extends User {
         System.out.println("Admin Dashboard: Manage users, events, system settings.");
     }
 }
+
